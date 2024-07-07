@@ -2,15 +2,17 @@
 #include <FirebaseESP8266.h>
 
 // Pin untuk sensor ultrasonik
-#define SENSOR_TRIG D5
-#define SENSOR_ECHO D6
+// replace the $ with ypur pin
+#define SENSOR_TRIG $
+#define SENSOR_ECHO $
 
 // Kredensial Wi-Fi Anda
-const char* ssid = "ZTE_2.4G_gwnh36";
-const char* password = "L2V6Hpvb";
+// replace the $$$ with your ssid n/ pasword
+const char* ssid = "YOUR_ROUTER_SSID" ;
+const char* password = "YOUR_ROUTER_PASSWORD";
 
 // Kredensial Firebase Anda
-#define FIREBASE_HOST "seatec-9fdf1-default-rtdb.asia-southeast1.firebasedatabase.app"
+#define FIREBASE_HOST "YOUR_FIREBASE_HOST"
 #define FIREBASE_AUTH "YOUR_FIREBASE_AUTH"
 
 FirebaseData firebaseData;
