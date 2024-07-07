@@ -1,1 +1,1 @@
-<a herf= "https://github.com/pratam-bit/SeaTec/new/main?filename=README.md"> Pentabit </a>
+<a herf="https://github.com/pratam-bit/"> Pentabit </a>
