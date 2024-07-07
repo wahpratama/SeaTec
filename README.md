@@ -1,1 +1,3 @@
-<a herf="https://github.com/pratam-bit/"> Pentabit </a>
+##SeaTection
+ ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
